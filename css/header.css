@@ -1,0 +1,15 @@
+.header {
+}
+
+.main-nav {
+}
+.main-nav-list {
+}
+.main-nav-link {
+  font-weight: 500;
+}
+.main-nav-link:hover,
+.main-nav-link:focus,
+.main-nav-link.active {
+  color: #404bbf;
+}

@@ -1,0 +1,24 @@
+.hero {
+  background-color: #2e2f42;
+  text-align: center;
+}
+.hero-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  color: #fff;
+}
+.btm-filled {
+  border-radius: 4px;
+  padding: 16px 32px;
+  width: 169px;
+  height: 56px;
+  max-width: 169px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
+  color: #fff;
+}
+.btm-filled:hover,
+.btm-filled:focus {
+  background-color: #404bbf;
+}
